@@ -1,0 +1,39 @@
+nav {
+    background-color: #a20f51;
+    overflow: hidden;
+  }
+
+  nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    background-color: #ff477e;
+    color: #fae0e4;
+  }
+  body {
+    background-color: #fae0e4; /* Light pastel */
+    color: #fae0e4;
+  }
+  footer{
+    background-color: #ff477e;
+    color: #fae0e4;
+  }
+  #profile {
+    text-align: center;
+    border-radius: 50%;
+    
+  }
+  #foot{
+    text-align: center;
+  }
+  #about{
+    background-color: white;
+    color: #333;
+    
+  }
